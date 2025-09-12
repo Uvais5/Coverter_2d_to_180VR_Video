@@ -1,0 +1,8 @@
+torch
+os
+imageio_ffmpeg
+gradio
+opencv-python
+torchvision
+numpy
+moviepy
