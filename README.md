@@ -4,7 +4,10 @@ This project provides a pipeline to convert standard videos into **VR180 SBS (Si
 It uses **Gradio** for a simple web interface and supports GPU acceleration (CUDA).
 
 ---
+## video 
+[![Watch the demo](demo-thumbnail.png)](https://github.com/your-username/vr180-converter/raw/main/demo.mp4)
 
+---
 ## ✨ Features
 
 **Upload 2D Video** – Users can provide any short MP4 video.  
@@ -44,3 +47,19 @@ It uses **Gradio** for a simple web interface and supports GPU acceleration (CUD
    ```bash
    git clone https://github.com/your-username/vr180-converter.git
    cd vr180-converter
+   ```
+2. Create a virtual environment:
+```
+python -m venv appenv
+source appenv/bin/activate   # On Linux/Mac
+appenv\Scripts\activate      # On Windows
+```
+3. Install dependencies:
+
+```
+pip install -r requirements.txt
+```
+4. Run the app:
+```
+python app.py
+```
