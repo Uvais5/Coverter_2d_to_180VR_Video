@@ -5,7 +5,7 @@ It uses **Gradio** for a simple web interface and supports GPU acceleration (CUD
 
 ---
 ## video 
-[![Watch the demo](demo-thumbnail.png)](https://github.com/your-username/vr180-converter/raw/main/demo.mp4)
+[![Watch the demo](demo-thumbnail.png)](https://github.com/Uvais5/Coverter_2d_to_180VR_Video/blob/master/VR_video.mp4)
 
 ---
 ## ✨ Features
