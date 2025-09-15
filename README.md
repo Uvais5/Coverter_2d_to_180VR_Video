@@ -5,7 +5,9 @@ It uses **Gradio** for a simple web interface and supports GPU acceleration (CUD
 
 ---
 ## video 
-[![Watch the demo](demo-thumbnail.png)](https://github.com/Uvais5/Coverter_2d_to_180VR_Video/demo.gif)
+<p align="center">
+  <img src="demo.gif" alt="App screenshot" width="640">
+</p>
 
 ---
 ## ✨ Features
