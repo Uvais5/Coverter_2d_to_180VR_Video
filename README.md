@@ -4,7 +4,7 @@ This project provides a pipeline to convert standard videos into **VR180 SBS (Si
 It uses **Gradio** for a simple web interface and supports GPU acceleration (CUDA).
 
 ---
-## video 
+## video (Input & Output)
 <p align="center">
   <img src="demo.gif" alt="App screenshot" width="640">
 </p>
